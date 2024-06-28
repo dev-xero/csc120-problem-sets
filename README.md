@@ -29,4 +29,4 @@ Source code solutions to the problems given in the book from module two through 
 
 ### `Extra:`
 
-1. Convert radians (-180, 180) to degrees.
+1. Convert radians `nπ` to degrees.
