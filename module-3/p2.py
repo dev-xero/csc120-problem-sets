@@ -1,3 +1,11 @@
+# -----------------------------------------------------------------
+#
+# Xero, 2024 - Open Source Software
+# This file is part of a larger collection which can be found here:
+# https://github.com/dev-xero/csc120-problem-sets
+#
+# ------------------------------------------------------------------
+
 # Imports
 from random import randint
 
@@ -18,5 +26,6 @@ def main(**args):
     print("- x^y:", x_raised_to_y)
 
 
+# Only execute when run
 if __name__ == "__main__":
     main()
