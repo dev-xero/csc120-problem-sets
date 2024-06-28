@@ -23,9 +23,10 @@ Source code solutions to the problems given in the book from module two through 
 5. Generates 50 random numbers such that the first is in the range `1-2`, second in `1-3`, etc.
 6. Print the absolute difference and sum of two integers.
 7. Print the corresponding positive angle of any angle between -180 and 180 deg.
-8. Print the result of adding `x` hours to the current hour.
-9. Number of leap years between 1600 and some year `1600+n`.
-10. Compute the amount of quarters, dimes, nickels and pennies needed to efficiently make up some change.
+8. Prompt the user for some `n` seconds and print the number of minutes and seconds that is.
+9. Print the result of adding `x` hours to the current hour.
+10. Number of leap years between 1600 and some year `1600+n`.
+11. Compute the amount of quarters, dimes, nickels and pennies needed to efficiently make up some change.
 
 ### `Extra:`
 
