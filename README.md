@@ -22,7 +22,11 @@ Source code solutions to the problems given in the book from module two through 
 4. Generates a decimal number with 2 places of accuracy.
 5. Generates 50 random numbers such that the first is in the range `1-2`, second in `1-3`, etc.
 6. Print the absolute difference and sum of two integers.
-7. Convert radians (-180, 180) to degrees.
+7. Print the corresponding positive angle of any angle between -180 and 180 deg.
 8. Print the result of adding `x` hours to the current hour.
 9. Number of leap years between 1600 and some year `1600+n`.
 10. Compute the amount of quarters, dimes, nickels and pennies needed to efficiently make up some change.
+
+### `Extra:`
+
+1. Convert radians (-180, 180) to degrees.
