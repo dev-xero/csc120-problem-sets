@@ -16,6 +16,19 @@ Source code solutions to the problems given in the book from module two through 
 
 ### `Module 3:`
 
+1. Program to print your name 100 times.
+2. Program to fill the screen horizontally and vertically with your name.
+3. Program that outputs 100 lines with your name.
+4. List of integers from 1-20 with their squares.
+5. Diff. three for loop.
+6. Reverse even numbers.
+7. Four for loops for A-G sequence.
+8. Repeat user name `n` time.
+9. Fibonacci sequence up to `n`.
+10. User defined dimensions asterisk box.
+
+### `Module 4:`
+
 1. Generating 50 random integers from 3 - 6.
 2. Generates two random numbers, `x` and `y` and computes `x^y`.
 3. Generates a random number, `n` and prints your name `n` many times.
