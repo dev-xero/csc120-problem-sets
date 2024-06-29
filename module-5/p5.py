@@ -12,6 +12,9 @@ from random import randint
 
 # Main entry point
 def main(**args):
+    """
+        Loop number guessing game, use q to quit!
+    """
     show_streak = args.get("streak") or False
     attempts = 1  # keep track of how many times they've attempted
 
