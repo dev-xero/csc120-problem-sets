@@ -45,7 +45,7 @@ Source code solutions to the problems given in the book from module two through 
 
 1. `cm` to `inches` converter.
 2. Celsius to Fahrenheit auto converter (vice versa).
-3. Temperatur analysis (basic).
+3. Temperature analysis (basic).
 4. College credits analysis (basic).
 5. Guess the number (loop variation).
 6. Bulk buying estimator.
