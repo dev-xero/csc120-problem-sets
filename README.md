@@ -41,6 +41,17 @@ Source code solutions to the problems given in the book from module two through 
 10. Number of leap years between 1600 and some year `1600+n`.
 11. Compute the amount of quarters, dimes, nickels and pennies needed to efficiently make up some change.
 
+### `Module 5:`
+
+1. `cm` to `inches` converter.
+2. Celsius to Fahrenheit auto converter (vice versa).
+3. Temperatur analysis (basic).
+4. College credits analysis (basic).
+5. Guess the number (loop variation).
+6. Bulk buying estimator.
+7. Number closeness.
+8. Leap year program.
+
 ### `Extra:`
 
 1. Convert radians `nπ` to degrees.
