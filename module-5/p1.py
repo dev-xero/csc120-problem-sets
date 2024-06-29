@@ -11,11 +11,19 @@ def main(**args):
     """
         Prompts the user for a length in cm, then converts it
         into inches.
+
         Conversion factor: 1in -> 2.54cm
+
+        Note: The user cannot enter negative values.
     """
     length_cm = float(eval(input("> Length in cm: ")))
-    length_in = length_cm / 2.54
 
+    # Check that length is > than 0
+    if not (length_cm > 0):
+        print("- Length entry is invalid.")
+        return
+
+    length_in = length_cm / 2.54
     print("- Length in inches (3 d.p.):", round(length_in, 3))
 
 
