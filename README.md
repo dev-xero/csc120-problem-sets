@@ -52,6 +52,14 @@ Source code solutions to the problems given in the book from module two through 
 7. Number closeness.
 8. Leap year program.
 
+### `Module 6:`
+
+1. Program that counts the number of squares from 1 - 100 that end in 1.
+2. Program that counts number of squares from 1 - 100 ending in 4 and 9.
+3. Prompts the user for `n`, then computes (1 + 12 + 13 + 1n) - ln(n).
+4. Program to compute the sum: 1 - 2 + 3 - 4 + ... + 2000.
+5. Program to print the sum of the divisors of a number.
+
 ### `Extra:`
 
 1. Convert radians `nπ` to degrees.
